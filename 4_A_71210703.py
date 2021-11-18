@@ -6,6 +6,6 @@ if B in A and C in A:
 elif B in A:
     print("Hanya",B,"yang ditemukan pada artikel ini")
 elif C in A:
-    print("Hanya",C,"yang ditemukan pada artikel ini")
+    print("Hanya skor",C,"yang ditemukan pada artikel ini")
 else:
     print("Hasil pencarian",B,"dan",C,"tidak ditemukan")

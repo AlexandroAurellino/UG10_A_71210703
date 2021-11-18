@@ -1,7 +1,7 @@
 print("############################")
 print("Kalkulator Advance Sederhana")
 print("############################")
-print("1. Menghitung sisa hasil bagai")
+print("1. Menghitung sisa hasil bagi")
 print("2. Membulatkan ke bawah hasil pembagian")
 print("3. Mencari akar kubik sebuah bilangan")
 
